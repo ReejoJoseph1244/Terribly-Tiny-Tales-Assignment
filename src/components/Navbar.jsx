@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
       <div className="h-50 w-full bg-black text-white absolute flex">
         <div className="flex gap-4">
-          <img src={logo_icon} alt="Logo" className="pt-5 pl-10 pb-5" />
+          <img src={logo_icon} alt="Logo" className="pt-5 pl-10 pb-5 cursor-pointer" />
           <div className="h-10 w-px bg-slate-400 mt-4"></div>
           <h1 className="font-mono text-2xl tracking-widest pt-5 pb-5">
             STORIES
