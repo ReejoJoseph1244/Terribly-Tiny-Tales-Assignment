@@ -46,3 +46,6 @@ Tailwind CSS
 npm
 node
 ```
+
+## Local Json data
+![local json](https://github.com/ReejoJoseph1244/Terribly-Tiny-Tales-Assignment/assets/92742868/4b1f2273-fe34-4cc0-bc36-e9fca755119d)
