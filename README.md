@@ -15,7 +15,14 @@ Note:- All the components are created in components folder in src
 ```
 ---src
     |
-    |---->components
+    |----> components
+    |        |
+    |        |----> Navbar.jsx
+    |        |----> Header.jsx
+    |        |----> PostContent.jsx
+    |        |----> Posts.jsx
+    |        |----> assests
+    |
     |----> assests
 ```
 ### NavBar
