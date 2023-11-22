@@ -1,4 +1,5 @@
 # Terribly Tiny Tales Assignment
+![mobile view](https://github.com/ReejoJoseph1244/Terribly-Tiny-Tales-Assignment/assets/92742868/062f4543-4d70-41f4-82af-2f5e6588cf0f)
 
 ## Task Details
 1. Develop a frontend in Reactjs or Nextjs, which does the following:
@@ -28,6 +29,7 @@ It is a parent component for PostContent Component, It has all post data and map
 
 ### PostContent
 It is the child component of Posts, it takes the posts data as props and display the posts.
+
 
 ## libraries and plugins used
 ```
