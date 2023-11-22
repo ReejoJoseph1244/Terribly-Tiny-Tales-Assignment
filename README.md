@@ -23,7 +23,8 @@ Note:- All the components are created in components folder in src
     |        |----> Posts.jsx
     |        |----> assests
     |
-    |----> assests
+    |----> app.js
+    |----> app.css
 ```
 ### NavBar
 This Component is created to render the navigation bar of the webpage.
